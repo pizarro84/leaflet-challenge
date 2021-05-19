@@ -1,1 +1,1 @@
-# leaflet-challenge
+Instructions - Open static/js/logic.js and update the tokenVar variable with your MapBox token
